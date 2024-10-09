@@ -1,2 +1,6 @@
 /.vscode
 *.exe
+./bruteforce
+./bruteforce.exe
+./results.txt
+./results copy.txt
